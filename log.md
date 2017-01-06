@@ -27,7 +27,7 @@
 
 **Link to work:** [Drawing App](https://github.com/azs06/JavaScript30)
 
-### Day 3: January 04, 2017 (Example 1)
+### Day 3: January 04, 2017
 
 
 **Today's Progress**: Refactored canvas app code.
@@ -35,3 +35,21 @@
 **Thoughts:** Becoming better at refactoring code and applying appropriate design patterns is something I always wanted to be good at, experimenting with it, to get better at it.
 
 **Link to work:** [Drawing App](https://github.com/azs06/JavaScript30)
+
+### Day 4: January 05, 2017
+
+
+**Today's Progress**: Solved coding challenges on codewars, and contributed to Stackoverflow.
+
+**Thoughts:** Practiced javascript with codewars, few more points and I will get a rank upgrade.
+
+**Link to work:** [Codewars profile](https://www.codewars.com/users/azs06)
+
+### Day 5: January 06, 2017
+
+
+**Today's Progress**: Fixed latency bug of the drawing application.
+
+**Thoughts:** Understanding event is essential to javascript development.
+
+**Link to work:** [Drawing App](https://github.com/azs06/JavaScript30/tree/master/08%20-%20Fun%20with%20HTML5%20Canavs)
