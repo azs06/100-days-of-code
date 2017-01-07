@@ -53,3 +53,15 @@
 **Thoughts:** Understanding event is essential to javascript development.
 
 **Link to work:** [Drawing App](https://github.com/azs06/JavaScript30/tree/master/08%20-%20Fun%20with%20HTML5%20Canavs)
+
+### Day 6: January 07, 2017
+
+
+**Today's Progress**: Worked on 'Hold Shift to select checkboxes' from javascript 30 by Wes Bos.
+
+**Thoughts:** Figuring out the best way to solve any problem is harder then writing code, if you can solve something even with pseudo code then you can code it to any lang.
+
+**Link to work:** [Project Repo](https://github.com/azs06/JavaScript30/tree/master/10%20-%20Hold%20Shift%20and%20Check%20Checkboxes)
+
+**Tomoroows plan** work on Rebeca murphy's number guessing game
+http://codepen.io/azs06/pen/GrJEXM
