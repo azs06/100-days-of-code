@@ -63,5 +63,14 @@
 
 **Link to work:** [Project Repo](https://github.com/azs06/JavaScript30/tree/master/10%20-%20Hold%20Shift%20and%20Check%20Checkboxes)
 
+### Day 7: January 10, 2017
+
+
+**Today's Progress**: Back at coding outside work, after two sick days, worked on a Pokemon move search app using fetch api. Improvement needs to be added*.
+
+**Thoughts:** It's hard to work while you are not at your best, but we have to rise above all obstacles to achieve our goal. Fetch api seems great, though I would still prefer to use something like axios for larger application.
+
+**Link to work:** [Pokemon move finder](https://github.com/azs06/pokemon-move-finder)
+
 **Tomoroows plan** work on Rebeca murphy's number guessing game
 http://codepen.io/azs06/pen/GrJEXM
