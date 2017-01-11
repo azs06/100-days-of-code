@@ -72,5 +72,14 @@
 
 **Link to work:** [Pokemon move finder](https://github.com/azs06/pokemon-move-finder)
 
+### Day 8: January 11, 2017
+
+
+**Today's Progress**: Worked on some coding exercise at checkio(javascript).
+
+**Thoughts:** Solving problem is essential skill for a programmer, the more you practice the better you become at it.
+
+**Link to work:** [checkio profile](https://js.checkio.org/user/azs06/)
+
 **Tomoroows plan** work on Rebeca murphy's number guessing game
 http://codepen.io/azs06/pen/GrJEXM
