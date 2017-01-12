@@ -83,3 +83,16 @@
 
 **Tomoroows plan** work on Rebeca murphy's number guessing game
 http://codepen.io/azs06/pen/GrJEXM
+
+### Day 8: January 12, 2017
+
+
+**Today's Progress**: Created a css image and worked on some coding exercise at checkio(javascript).
+
+**Thoughts:** It's possible to create all kinds of shape using just css, and it's fun.
+
+**Link to work:** [checkio profile](https://js.checkio.org/user/azs06/)
+[css image js bin](https://jsbin.com/nusabot/3)
+
+**Tomoroows plan** work on Rebeca murphy's number guessing game
+http://codepen.io/azs06/pen/GrJEXM
