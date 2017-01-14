@@ -94,5 +94,14 @@ http://codepen.io/azs06/pen/GrJEXM
 **Link to work:** [checkio profile](https://js.checkio.org/user/azs06/)
 [css image js bin](https://jsbin.com/nusabot/3)
 
+### Day 9: January 12, 2017
+
+
+**Today's Progress**: Solved programming problem @js.checkio.
+
+**Thoughts:** Problem solving becomes easier with time, better understanding of algorithm and data structure helps solving problem faster.
+
+**Link to work:** [checkio profile](https://js.checkio.org/user/azs06/)
+
 **Tomoroows plan** work on Rebeca murphy's number guessing game
 http://codepen.io/azs06/pen/GrJEXM
