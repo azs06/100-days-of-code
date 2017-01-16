@@ -94,12 +94,21 @@ http://codepen.io/azs06/pen/GrJEXM
 **Link to work:** [checkio profile](https://js.checkio.org/user/azs06/)
 [css image js bin](https://jsbin.com/nusabot/3)
 
-### Day 9: January 12, 2017
+### Day 9: January 14, 2017
 
 
 **Today's Progress**: Solved programming problem @js.checkio.
 
 **Thoughts:** Problem solving becomes easier with time, better understanding of algorithm and data structure helps solving problem faster.
+
+**Link to work:** [checkio profile](https://js.checkio.org/user/azs06/)
+
+### Day 9: January 16, 2017
+
+
+**Today's Progress**: Solved programming problem @js.checkio.
+
+**Thoughts:** Knowing algorithm makes life easier for a programmer working with any stack.
 
 **Link to work:** [checkio profile](https://js.checkio.org/user/azs06/)
 
