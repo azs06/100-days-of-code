@@ -112,5 +112,11 @@ http://codepen.io/azs06/pen/GrJEXM
 
 **Link to work:** [checkio profile](https://js.checkio.org/user/azs06/)
 
-**Tomoroows plan** work on Rebeca murphy's number guessing game
-http://codepen.io/azs06/pen/GrJEXM
+### Day 10: January 17, 2017
+
+
+**Today's Progress**: Solved programming problem @js.checkio. Worked on number guessing game.
+
+**Thoughts:** Knowing how to manipulate dom(document object model) without any framework or library is essential for a front end developer.
+
+**Link to work:** [checkio profile](https://js.checkio.org/user/azs06/) [jsbin number guessing game](https://jsbin.com/kutegir/edit?html,js,output)
