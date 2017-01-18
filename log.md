@@ -120,3 +120,12 @@ http://codepen.io/azs06/pen/GrJEXM
 **Thoughts:** Knowing how to manipulate dom(document object model) without any framework or library is essential for a front end developer.
 
 **Link to work:** [checkio profile](https://js.checkio.org/user/azs06/) [jsbin number guessing game](https://jsbin.com/kutegir/edit?html,js,output)
+
+### Day 11: January 18, 2017
+
+
+**Today's Progress**: Created custom html5 video player.
+
+**Thoughts:** HTML5 video is quite a breeze to work with.
+
+**Link to work:** [github repo](https://github.com/azs06/JavaScript30/tree/master/11%20-%20Custom%20Video%20Player)
