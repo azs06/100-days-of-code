@@ -129,3 +129,12 @@ http://codepen.io/azs06/pen/GrJEXM
 **Thoughts:** HTML5 video is quite a breeze to work with.
 
 **Link to work:** [github repo](https://github.com/azs06/JavaScript30/tree/master/11%20-%20Custom%20Video%20Player)
+
+### Day 12: January 20, 2017
+
+
+**Today's Progress**: Worked on code katas @codewars.com.
+
+**Thoughts:** Solved some problems that requires deeper understanding of JavaScript, felt great.
+
+**Link to work:** [codewars profile](https://www.codewars.com/users/azs06)
