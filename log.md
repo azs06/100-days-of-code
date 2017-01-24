@@ -138,3 +138,21 @@ http://codepen.io/azs06/pen/GrJEXM
 **Thoughts:** Solved some problems that requires deeper understanding of JavaScript, felt great.
 
 **Link to work:** [codewars profile](https://www.codewars.com/users/azs06)
+
+### Day 13: January 21, 2017
+
+
+**Today's Progress**: Worked on Keyboard sequence detection.
+
+**Thoughts:** Konami code was something that intrigued me when I was younger, now I have some understanding how it was done.
+
+**Link to work:** [github](https://github.com/azs06/JavaScript30)
+
+### Day 13: January 23, 2017
+
+
+**Today's Progress**: Worked on first UI challenge, to create a login form.
+
+**Thoughts:** CSS is easy, creating something beautiful with css not that easy.
+
+**Link to work:** will add later
