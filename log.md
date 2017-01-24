@@ -148,7 +148,7 @@ http://codepen.io/azs06/pen/GrJEXM
 
 **Link to work:** [github](https://github.com/azs06/JavaScript30)
 
-### Day 13: January 23, 2017
+### Day 14: January 23, 2017
 
 
 **Today's Progress**: Worked on first UI challenge, to create a login form.
