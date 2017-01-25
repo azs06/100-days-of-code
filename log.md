@@ -155,4 +155,13 @@ http://codepen.io/azs06/pen/GrJEXM
 
 **Thoughts:** CSS is easy, creating something beautiful with css not that easy.
 
-**Link to work:** will add later
+**Link to work:** [codepen](http://codepen.io/azs06/pen/ygoGMZ)
+
+### Day 15 & 16: January 24,25, 2017
+
+
+**Today's Progress**: Completed Signup/Signin form project.
+
+**Thoughts:** Learned stylus for this, it's pretty neat.
+
+**Link to work:** [codepen](http://codepen.io/azs06/pen/ygoGMZ)
