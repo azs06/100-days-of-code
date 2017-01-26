@@ -165,3 +165,12 @@ http://codepen.io/azs06/pen/GrJEXM
 **Thoughts:** Learned stylus for this, it's pretty neat.
 
 **Link to work:** [codepen](http://codepen.io/azs06/pen/ygoGMZ)
+
+### Day 17: January 24,25, 2017
+
+
+**Today's Progress**: Worked on slide in scroll effect.
+
+**Thoughts:** Learned about debounce and throttling today, both can get a bit confusing. this [article](https://css-tricks.com/debouncing-throttling-explained-examples/) from css-tricks helped a lot.
+
+**Link to work:** [GitHub](https://github.com/azs06/JavaScript30/)
