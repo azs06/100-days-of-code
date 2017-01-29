@@ -177,7 +177,16 @@ http://codepen.io/azs06/pen/GrJEXM
 
 ### Day 18: January 28, 2017
 
+**Today's Progress**: Created times/repeat function for strings in JavaScript.
 
-**Today's Progress**: Doing things like this, helps you better understand inner workings of JavaScript.
+**Thoughts**: Doing things like this, helps you better understand inner workings of JavaScript.
 
 **Link to work:** [JSbin](https://jsbin.com/rozotu/edit?js,console)
+
+### Day 19: January 29, 2017
+
+**Today's Progress**: Solved a problem @js.checkio.org.
+
+**Today's Progress**: Figuring out a solution for a problem takes more time then actually writing code.
+
+**Link to work:** [JSbin](https://jsbin.com/cejahac/edit?html,js,console)
