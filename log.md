@@ -190,3 +190,11 @@ http://codepen.io/azs06/pen/GrJEXM
 **Today's Progress**: Figuring out a solution for a problem takes more time then actually writing code.
 
 **Link to work:** [JSbin](https://jsbin.com/cejahac/edit?html,js,console)
+
+### Day 20: February 1, 2017
+
+**Today's Progress**: Created a todo list type application with localstorage.
+
+**Today's Progress**: Learned what event delegation is.
+
+**Link to work:** [Github](https://github.com/azs06/JavaScript30)
