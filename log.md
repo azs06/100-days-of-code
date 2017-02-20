@@ -207,7 +207,7 @@ http://codepen.io/azs06/pen/GrJEXM
 
 **Link to work:** [Codewars](https://www.codewars.com/users/azs06)
 
-### Day 22: February 2, 2017
+### Day 22: February 20, 2017
 
 **Today's Progress**: Worked on solving problems @Codewars.
 
