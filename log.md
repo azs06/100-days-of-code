@@ -206,3 +206,11 @@ http://codepen.io/azs06/pen/GrJEXM
 **Today's Progress**: Learned what event delegation is.
 
 **Link to work:** [Codewars](https://www.codewars.com/users/azs06)
+
+### Day 22: February 2, 2017
+
+**Today's Progress**: Worked on solving problems @Codewars.
+
+**Today's Progress**: Back after long break, switched to a mac during this time :-).
+
+**Link to work:** [Codewars](https://www.codewars.com/users/azs06)
