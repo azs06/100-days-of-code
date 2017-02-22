@@ -187,7 +187,7 @@ http://codepen.io/azs06/pen/GrJEXM
 
 **Today's Progress**: Solved a problem @js.checkio.org.
 
-**Today's Progress**: Figuring out a solution for a problem takes more time then actually writing code.
+**Thoughts**: Figuring out a solution for a problem takes more time then actually writing code.
 
 **Link to work:** [JSbin](https://jsbin.com/cejahac/edit?html,js,console)
 
@@ -195,7 +195,7 @@ http://codepen.io/azs06/pen/GrJEXM
 
 **Today's Progress**: Created a todo list type application with localstorage.
 
-**Today's Progress**: Learned what event delegation is.
+**Thoughts**: Learned what event delegation is.
 
 **Link to work:** [Github](https://github.com/azs06/JavaScript30)
 
@@ -203,7 +203,7 @@ http://codepen.io/azs06/pen/GrJEXM
 
 **Today's Progress**: Worked on solving problems @Codewars.
 
-**Today's Progress**: Learned what event delegation is.
+**Thoughts**: Learned what event delegation is.
 
 **Link to work:** [Codewars](https://www.codewars.com/users/azs06)
 
@@ -211,6 +211,14 @@ http://codepen.io/azs06/pen/GrJEXM
 
 **Today's Progress**: Worked on solving problems @Codewars.
 
-**Today's Progress**: Back after long break, switched to a mac during this time :-).
+**Thoughts**: Back after long break, switched to a mac during this time :-).
+
+**Link to work:** [Codewars](https://www.codewars.com/users/azs06)
+
+### Day 23: February 21, 2017
+
+**Today's Progress**: Worked on solving problems @Codewars.
+
+**Thoughts**: Ranked up on codewars :-).
 
 **Link to work:** [Codewars](https://www.codewars.com/users/azs06)
