@@ -222,3 +222,19 @@ http://codepen.io/azs06/pen/GrJEXM
 **Thoughts**: Ranked up on codewars :-).
 
 **Link to work:** [Codewars](https://www.codewars.com/users/azs06)
+
+### Day 24 & 25: February 22,23, 2017
+
+**Today's Progress**: Worked on solving an algorithm for tic tac toe game.
+
+**Thoughts**: It was quite difficult then I thought it would be.
+
+**Link to work:**
+
+### Day 26: February 24, 2017
+
+**Today's Progress**: Stared working on a command line game of tic tac toe.
+
+**Thoughts**: Solving the winning algorithm would help to complete this faster.
+
+**Link to work:** TBA
