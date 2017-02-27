@@ -238,3 +238,11 @@ http://codepen.io/azs06/pen/GrJEXM
 **Thoughts**: Solving the winning algorithm would help to complete this faster.
 
 **Link to work:** TBA
+
+### Day 27 & 28: February 25,26, 2017
+
+**Today's Progress**: Last two days worked on solving minimum vertex cover problem.
+
+**Thoughts**: I have lot to learn about algorithms.
+
+**Link to work:** TBA
