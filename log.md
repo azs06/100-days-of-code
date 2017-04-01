@@ -23,3 +23,12 @@
 **Thoughts:** Learned how to create simple http server using NodeJS.
 
 **Link to work:** TBA
+
+### Day 2: April 01, 2017
+
+
+**Today's Progress**: Started working on creating pokedex using VueJS.
+
+**Thoughts:** A beautifully crafted application takes lots effort and hard work.
+
+**Link to work:** TBA
